@@ -9,3 +9,4 @@ clap = { version = "4", features = ["derive"] }
 image = "0"
 imageproc = "0"
 anyhow = "1"
+gcd = "2"
